@@ -1,0 +1,18 @@
+Bank customer Churn Challenge
+
+the data was retrieved from https://github.com/PRIYANG-BHATT/Datasets-Youtube-Pandas
+
+
+- 'surname',  
+- 'creditscore'           score given by the bank INT
+- 'geography'             country
+- 'gender',               male or female
+- 'age'                   age of the cusomter
+- 'tenure',               Numerical, No of years that the custmer has been in the company
+- 'balance',              balance in the account of the customer 
+- 'number of products'    what services does the customer have
+- 'hascrcard'             1 yes and 0 no "credit card
+- 'isactivemember'        1 yes and 0 no  
+- 'estimated salary'      estimated salary of the customer 
+- 'Churn'                 1 left the bank and 0 did not
+
